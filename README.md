@@ -16,7 +16,7 @@ This Python script utilizes web scraping techniques to extract product informati
 1. Install the required Python packages.
 2. Download and install the Chrome Web Driver. Make sure the Chrome Web Driver executable is in your system's PATH.
 3. Run the script using Python.
-4. 
+
 ---
 
 #### Code Explanation
