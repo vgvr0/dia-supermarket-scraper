@@ -2,6 +2,8 @@
 
 This Python script utilizes web scraping techniques to extract product information from the DIA supermarket website.
 
+![Día Supermarket](SupermercadoDia.png)
+
 ---
 
 ## Requirements
